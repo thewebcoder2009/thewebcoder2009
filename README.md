@@ -1,4 +1,4 @@
-- 👋 Hi, I’m The-Code
+- 👋 Hi, I’m The-Coder
 - 👀 I’m interested in Coding
 - 🌱 I’m currently studying in Class 8
 - This is my repository Page - https://github.com/thecoder1234-ssvbhilai?tab=repositories
