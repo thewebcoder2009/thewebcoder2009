@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently studying in Class 8
 - This is my repository Page - [Repositories](https://github.com/thecoder1234-ssvbhilai?tab=repositories)
-- My website to know more about me - <a href="https://thecoder.rf.gd/" target="_blank">The Coder</a>
+- My website to know more about me - <a href="https://tcoder.rf.gd/" target="_blank">The Coder</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecoder1234-ssvbhilai&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecoder1234-ssvbhilai&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
