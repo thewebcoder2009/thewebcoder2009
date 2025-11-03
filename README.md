@@ -1,6 +1,6 @@
 - 👋 Hi, I’m The-Coder
 - 👀 I’m interested in Coding
-- 🌱 I’m currently studying in Class 10
+- 🌱 A 11th Grader preparing for NEET
 - This is my repository Page - [Repositories](https://github.com/thecoder1234-ssvbhilai?tab=repositories)
 
 <!---
